@@ -30,7 +30,7 @@ I'm phil a Computer geek and programming Student
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Mobile Dev
-  ## It is all about <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat"> 
+  ### It is all about <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat"> 
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
