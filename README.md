@@ -21,20 +21,14 @@ I'm phil a Computer geek and programming Student
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
-<!-- <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"> -->
-<!-- <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> -->
-<!-- <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"> -->
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<!-- <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> -->
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<!-- <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white"> -->
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-<!-- ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) -->
 <img src=http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff>
 <img src=http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff>
 <img src=https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white>
@@ -45,6 +39,12 @@ I'm phil a Computer geek and programming Student
 <img src=https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white>
 <img src=https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB>
 <!-- <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white"> -->
+<!-- <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"> -->
+<!-- <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> -->
+<!-- <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"> -->
+<!-- ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) -->
+<!-- <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white"> -->
+<!-- <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> -->
 
 ### Other Languages I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
