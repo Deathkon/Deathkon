@@ -5,7 +5,7 @@ I'm Phil aka Deathkon a Computer geek and programming Student
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 📚 I'm also learning about mobile development with flutter
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- Fun Fact: Beside being a developer, am also certified in Networking and Cybersecurity
+- ✨Fun Fact: Beside being a developer, am also certified in Networking and Cybersecurity
 
 ---
 
