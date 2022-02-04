@@ -1,5 +1,5 @@
 # Deathkon
-I'm Phil aka Deathkon a Computer Geek and programming Student  
+I'm Phil aka Deathkon a Computer Geek and Programming Student  
 
 - 👨‍💻 I’m currently working on web development technologies like Java, Spring ,JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
