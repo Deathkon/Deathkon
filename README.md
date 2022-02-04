@@ -115,6 +115,6 @@ I'm Phil aka Deathkon a Computer Geek and Programming Student
 ### Want to learn
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-**I CAN WORK MOST OF ALL** ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) **APPS**
+**I CAN WORK WITH ALL MOST OF ** ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)** APPS**
 
 
