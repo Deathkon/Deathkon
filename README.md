@@ -51,7 +51,7 @@ I'm phil a Computer geek and programming Student
 <!-- <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> -->
 <!-- <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"> -->
 
-### Platforms
+### Deployment Platforms and OS
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
