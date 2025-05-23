@@ -1,1 +1,1 @@
-Experience in software development and currently working on AI.
+Software developer currently working on VR and AI.
